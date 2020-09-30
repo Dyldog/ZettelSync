@@ -1,0 +1,9 @@
+[submodule "Bear-Markdown-Export"]
+	path = Bear-Markdown-Export
+	url = git@github.com:andymatuschak/Bear-Markdown-Export.git
+[submodule "note-link-janitor"]
+	path = note-link-janitor
+	url = git@github.com:PiotrSss/note-link-janitor.git
+[submodule "notes-monthly-summariser"]
+	path = notes-monthly-summariser
+	url = git@github.com:Dyldog/notes-monthly-summariser.git
