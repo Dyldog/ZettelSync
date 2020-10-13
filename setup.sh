@@ -6,3 +6,7 @@ popd
 pushd notes-monthly-summariser
 swift build -c release
 popd
+
+pushd BearJanitor
+swift build -c release
+popd

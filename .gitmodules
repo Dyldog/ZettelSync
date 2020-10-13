@@ -7,3 +7,6 @@
 [submodule "Bear-Markdown-Export"]
 	path = Bear-Markdown-Export
 	url = git@github.com:Dyldog/Bear-Markdown-Export.git
+[submodule "BearJanitor"]
+	path = BearJanitor
+	url = git@github.com:Dyldog/BearJanitor.git
